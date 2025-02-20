@@ -4,7 +4,7 @@ from funciones.masfunciones import *
 from funciones.paises import *
 import os
 
-carpeta = "C:\\xampp\\htdocs\\seagreen\\logs"
+carpeta = "/var/log/apache2/"
 
 for root, dirs, files in os.walk(carpeta):
     for file in files:
