@@ -5,7 +5,7 @@ import os
 import re
 import geoip2.database
 import ipaddress
-from funciones.ayudante import get_filename_without_extension
+from ayudante import get_filename_without_extension
 
 # Function to get country name from IP using GeoIP2
 def get_country(ip, reader):

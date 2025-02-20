@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import os
 import re
-from funciones.ayudante import get_filename_without_extension
+from ayudante import get_filename_without_extension
 
 def parse_log_line(line):
     """

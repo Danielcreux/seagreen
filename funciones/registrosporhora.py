@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import os
-from funciones.ayudante import get_filename_without_extension
+from ayudante import get_filename_without_extension
 
 def registrosPorHora(ruta): 
     archivo = open(ruta,'r')
