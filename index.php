@@ -70,7 +70,7 @@ function getImages($directory) {
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <title>jocarsa | seagreen</title>
+    <title>Danielcreux | seagreen</title>
     <link rel="icon" type="image/svg+xml" href="https://jocarsa.com/static/logo/jocarsa | SeaGreen.svg" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
