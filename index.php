@@ -281,7 +281,7 @@ function getImages($directory) {
     <!-- NAVIGATION -->
     <nav>
     <h1>
-                <img src="https://jocarsa.com/static/logo/jocarsa | White.svg" alt="Logo">jocarsa | seagreen
+                <img src="https://jocarsa.com/static/logo/jocarsa | White.svg" alt="Logo">Danielcreux | seagreen
             </h1>
         <span>Usuario: <?php echo USERNAME; ?></span>
         <a href="?action=logout">Cerrar Sesión</a>
