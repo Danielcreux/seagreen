@@ -5,6 +5,7 @@ import os
 import re
 import geoip2.database
 import ipaddress
+
 from ayudante import get_filename_without_extension
 
 # Function to get country name from IP using GeoIP2
@@ -177,7 +178,7 @@ def countries_pie_chart(ruta, mmdb_path='GeoLite2-Country.mmdb'):
 # Example usage
 if __name__ == "__main__":
     # Path to your Apache log file
-    log_file_path = "/var/log/apache2/jocarsa-oldlace-access.log"
+    log_file_path = "/var/log/apache2/oldlice-access.log"
     
     # Path to the GeoLite2 Country MMDB database
     mmdb_path = 'GeoLite2-Country.mmdb'  # Update this path if necessary

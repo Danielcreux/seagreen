@@ -2,6 +2,7 @@ from funciones.registrosporhora import registrosPorHora
 from funciones.distintasips import distinctIPs
 from funciones.masfunciones import *
 from funciones.paises import *
+from ayudante import *
 import os
 
 carpeta = "/var/log/apache2/"
